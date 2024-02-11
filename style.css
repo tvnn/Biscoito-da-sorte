@@ -1,0 +1,54 @@
+
+
+body {
+    display: inline-flex;
+    padding: 239px 542px 319px 542px;
+    align-items: flex-start;
+    background: linear-gradient(45deg, #190361 0%, #B0F 100%);
+  }
+  
+  .container {
+    display: flex;
+    width: 428px;
+    padding: 48px 64px 64px 64px;;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 20px 50px 0px rgba(0, 0, 0, 0.80);
+  }
+
+  .mensagem {
+    color: #34355B;
+    height: 48px, 84,64px, 318px, 82,64px;
+    width: 258.513px;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+  }
+
+  .mensagem p1 {
+    color: #34355B;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .biscoito {
+    display: flex;
+    width: 166.42px, 65,79px;
+    height: 87,57px, 91,59px;
+    padding: 6.424px 9.73px 1.786px 5.714px;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  
+
+
+
+  
